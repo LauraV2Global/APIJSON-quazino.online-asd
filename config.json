@@ -1,0 +1,14 @@
+{
+  "tracking": {
+    "script": "hhttps://ih.quazino.online/track.js?rtkcmpid=6987e6d5cb92634d4f0845e4"
+  },
+  "vsl": {
+    "clickUrl": "https://ih.quazino.online/click",
+    "playerId": "vid-6987c92cba3ea727caf4fcfa",
+    "playerScript": "https://scripts.converteai.net/0c720c90-e7e2-43bb-bf68-a9f95307d607/players/6987c92cba3ea727caf4fcfa/v4/player.js",
+    "smartPlayerScript": "https://scripts.converteai.net/lib/js/smartplayer-wc/v4/smartplayer.js"
+  },
+  "cta": {
+    "delay": 1671000
+  }
+}
