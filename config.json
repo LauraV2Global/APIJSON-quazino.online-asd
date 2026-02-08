@@ -1,6 +1,6 @@
 {
   "tracking": {
-    "script": "hhttps://ih.quazino.online/track.js?rtkcmpid=6987e6d5cb92634d4f0845e4"
+    "script": "https://ih.quazino.online/track.js?rtkcmpid=6987e6d5cb92634d4f0845e4"
   },
   "vsl": {
     "clickUrl": "https://ih.quazino.online/click",
@@ -12,3 +12,4 @@
     "delay": 1671000
   }
 }
+
